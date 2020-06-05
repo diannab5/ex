@@ -1,0 +1,4 @@
+1,"IoT Security","Security",12,2,
+2,"Cybernetic Security","Security",10,1,
+6,"Cybernetic Security","Security",15,1,
+3,"Mondial Bank","Finance",8,3
