@@ -1,0 +1,6 @@
+10AC,200,3,porumb,ovaz,grau,20.5,
+11DF,100,2,floarea_soarelui,hrisca,10.9,
+12TR,50,3,ovaz,secara,porumb,60.9,
+15FG,100,1,grau,100,
+14WQ,150,2,chia,quinoa,40.5,
+10AC,300,1,grau,4.5
