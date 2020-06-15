@@ -1,0 +1,10 @@
+G1 Prichindelul Parc 1998 50
+G3 Soare StrFloare 2020 700
+G1 Prichindelul StrFizicienilor 1998 400
+G4 Super StrFrumoasa 2000 450
+G5 Lalea StrMai 1998 500 
+G9 Great Strtineretului 2000 560
+G5 Micut StrRatelor 2000 670
+G9 LittleSunshine StrIunie 2010 500
+G5 LittleMan StrAugust 2019 450
+G2 Micut2 StrSeptembrie 2019 340

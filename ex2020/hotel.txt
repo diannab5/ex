@@ -1,0 +1,11 @@
+I 20 dubla 450.5 ocupata
+II 15 simpla 340.5 libera
+II 25 deluxe 230.2 ocupata
+III 10 simpla 230.5 ocupata
+III 17 dubla 450.6 libera
+III 23 tripla 600.7 ocupata
+III 26 simpla 120.5 ocupata
+IV 8 tripla 560.7 libera
+IV 11 dubla 230.5 libera
+IV 12 simpla 130.4 ocupata
+IV 18 dubla 450.1 libera

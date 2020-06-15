@@ -1,0 +1,10 @@
+17 1 Energie Enel 450.4
+11 2 Gaz GazCompany 230.5
+7 3 Gaz2 GazCompany 250.6
+13 4 Apa WaterCompany 500.6
+23 5 Apa2 WaterCompany 3400.5
+4 6 NewEnergie Enel 250.6
+5 7 Apa3 WaterCompany 400.5
+10 8 Electricitate ElectricCompany 600.7
+25 9 Elect ElectricCompany 500.6
+30 10 Water WaterCompany 400.5

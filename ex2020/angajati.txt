@@ -1,0 +1,11 @@
+25 Marian 500.5 Vitan 15.6
+23 Cristian 100.9 Romana 23.4
+30 Ana 234.5 Aviatorilor 20.7
+15 Sara 200.4 Baneasa 23.4
+24 Cristi 234.5 Vitan 20.7
+16 Mara 200.4 Baneasa 23.4
+32 Inna 234.5 Universitate 40.0
+10 Toma 250.6 Vitan 48.9
+8 Maria 55.5 Romana 230.3
+22 Denisa 56.8 Vitan 89.9
+26 Alexa 30.4 Vitan 80.5
